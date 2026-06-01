@@ -176,7 +176,7 @@ Built by **Ravi Gohel** — B.Tech AI/ML student from Rajkot, Gujarat.
 
 > "I built what companies pay $50k for — using free tools and a weekend."
 
-Connect on [LinkedIn](https://linkedin.com/in/ravigohel) | Check my [GitHub](https://github.com/ravigohel142996)
+Connect on [LinkedIn](https://www.linkedin.com/in/ravi-gohel/) | Check my [GitHub](https://github.com/ravigohel142996)
 
 ---
 
